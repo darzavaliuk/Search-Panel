@@ -1,4 +1,4 @@
-import "./app.css";
+import "./App.css";
 import { Users } from "./users";
 import React, { useState } from "react";
 import Table from "./Table";
